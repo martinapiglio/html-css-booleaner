@@ -10,6 +10,10 @@ h1 {
     margin-bottom: 5px;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 thead {
     background-color: #20a9e5;
     color: white;
