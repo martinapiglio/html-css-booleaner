@@ -10,6 +10,21 @@ h1 {
     margin-bottom: 5px;
 }
 
+thead {
+    background-color: #20a9e5;
+    color: white;
+    font-size: large;
+    text-align: left;
+}
+
+td:first-child, td:nth-child(2) {
+    width: 300px;
+  }
+
+.row-cyan {
+    background-color: #b1e5f2;
+}
+
 .info-grey {
     color: #818181
 }
